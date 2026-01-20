@@ -17,7 +17,7 @@
 
 ## Contact
 
-* **Email:** ykla [yklaxds@gmail.com](mailto:yklaxds@gmail.com)
+* **Email:** ykla `yklaxds@gmail.com`
 * **QQ Group:** 787969044
 * **Discord:** [CFC](https://discord.gg/3CumSw76)
 
