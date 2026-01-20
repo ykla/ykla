@@ -2,28 +2,11 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ykla&show_icons=true)](https://github.com/ykla)
 
-“What we love declares publicly who exactly we are.” — Thomas Merton,*Thoughts in Solitude*
-
 ## Introduction
 
-* ​**Name**​: ykla
-* **Location & Timezone:** P.R.China UTC+8
-
-## About
-
-* I founded the Chinese FreeBSD Community (CFC, FreeBSD 中文社区) in 2018.
-* Authored an open-source online book (FreeBSD 从入门到跑路) for studying the FreeBSD operating system in Simplified Chinese.
-* Translated all FreeBSD documentation, journals (2020+), a large number of BSD news and articles, all release notes, and all status reports into Simplified Chinese.
+>夢飲酒者，旦而哭泣；夢哭泣者，旦而田獵。方其夢也，不知其夢也。夢之中又占其夢焉，覺而後知其夢也。且有大覺而後知此其大夢也，而愚者自以為覺，竊竊然知之。君乎，牧乎，固哉！丘也，與女皆夢也；予謂女夢，亦夢也。是其言也，其名為弔詭。萬世之後，而一遇大聖知其解者，是旦暮遇之也。（《莊子·齊物論》）
 
 ## Contact
 
-* **Email:** ykla `yklaxds@gmail.com`
 * **QQ Group:** 787969044
 * **Discord:** [CFC](https://discord.gg/3CumSw76)
-
-## Links
-
-* [​**GitHub​**](https://wiki.freebsd.org/GitHub) ​(CFC): [https://github.com/FreeBSD-Ask](https://github.com/FreeBSD-Ask)
-* ​**Chinese FreeBSD Community (CFC)**: [https://bsdcn.org](https://bsdcn.org/)
-* **Book (FreeBSD 从入门到跑路):** [https://book.bsdcn.org](https://book.bsdcn.org/) (Simplified Chinese)
-* **Bilibili (B 站):** [https://space.bilibili.com/2120246893](https://space.bilibili.com/2120246893)
