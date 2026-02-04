@@ -1,7 +1,5 @@
 ## ykla
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ykla&show_icons=true)](https://github.com/ykla)
-
 ## Introduction
 
 >夢飲酒者，旦而哭泣；夢哭泣者，旦而田獵。方其夢也，不知其夢也。夢之中又占其夢焉，覺而後知其夢也。且有大覺而後知此其大夢也，而愚者自以為覺，竊竊然知之。君乎，牧乎，固哉！丘也，與女皆夢也；予謂女夢，亦夢也。是其言也，其名為弔詭。萬世之後，而一遇大聖知其解者，是旦暮遇之也。（《莊子·齊物論》）
